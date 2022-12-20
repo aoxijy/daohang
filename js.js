@@ -78,7 +78,7 @@ function browserRedirect() {
     
 var now = -1;
 var resLength = 0;
-var thisSearch = 'https://isoyu.com/?q=';
+var thisSearch = 'https://www.google.com/search?q=';
 var thisSearchIcon = './logo.jpg';
 var storage = window.localStorage;
 if(!storage.stopHot){
